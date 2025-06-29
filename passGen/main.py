@@ -10,7 +10,7 @@ else:
   if optTyp == 1:
     length = 20
     count = 4
-    lengthInput(optTyp, length, count)
+    lengthInput(optTyp, length, count, '', '', '', '')
   else:
     # ask user for password length
     length = int(input("Enter desired password length: "))
