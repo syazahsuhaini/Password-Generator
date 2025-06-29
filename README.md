@@ -18,3 +18,4 @@ Customized password generation steps;
 	4. Insert option yes or no to include digits for the password.
 	5. Insert option yes or no to include symbols for the password.
 	6. The password will be generated.
+![image](https://github.com/user-attachments/assets/45543de6-9468-43ad-a78d-63e7f2b879e7)
