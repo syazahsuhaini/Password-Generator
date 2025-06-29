@@ -9,6 +9,7 @@ Customized password generation will generate a password with minimum length 12 a
 Automatic password generation steps;
 	1. Insert option 1 for automatic password generation type.
   	2. The password will be generated.
+![image](https://github.com/user-attachments/assets/ebf46b84-a4ea-4d84-822d-ecaef73967a4)
 
 Customized password generation steps;
 	1. Insert option 2 for customized password generation type.
