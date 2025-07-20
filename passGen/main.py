@@ -1,4 +1,4 @@
-from utils import lengthInput, optTyp2, countOptTyp2, typ2
+from utils import lengthInput, typ2
 
 # ask user auto password generation or customized
 optTyp = int(input("1-Auto password generation | 2-Customized password generation : "))
